@@ -1,10 +1,10 @@
-### Hi there 👋
+
+<p align="center">
+  <b>dwdwaopdwawajf</b><br>
+  ### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Java
 - 💻 Discord: Javin#1305
-<p align="center">
-  <b>dwdwaopdwawajf</b><br>
-  i found this randomly somewhere idk it looked cool
   <br><br>
   <img src="https://i.postimg.cc/brtYn7N0/0-Ns5-KOXx-Ni-b-Rvo6-T.gif">
 </p>
