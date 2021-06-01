@@ -4,10 +4,14 @@
   Hello there 👋 <br>
   🔭 I’m currently working on ...<br>
   🌱 I’m currently learning Java<br>
-  💻 Discord: Javin#1305
-  <br><br>
+  💻 Discord: Javin#1305 
+  </p>
+  <hr>
+  <p align="center">
+  <br>
   <img src="https://i.postimg.cc/brtYn7N0/0-Ns5-KOXx-Ni-b-Rvo6-T.gif">
 </p>
+
 
 <p align="center"> 
   <b>Spotify🎶...</b>
