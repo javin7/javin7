@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Java
-- ⚡ Fun fact: I'm broke
 - 💻 Discord: Javin#1305
+- 
 
 
 <!--
