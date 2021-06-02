@@ -1,17 +1,17 @@
 <hr>
+<h1 align="center"><b>Javin</b></h1><br>
 <p align="center">
-  <b>Javin</b><br>
   Hello there 👋 <br>
-  🔭 I’m currently working on ...<br>
+  🔭 I’m currently working on nothing<br>
   🌱 I’m currently learning Java<br>
   💻 Discord: Javin#1305 
   </p>
   <hr>
   <p align="center"> 
-  <b>Github Stats:</b>
+  <b>Github Stats:octocat::</b>
   <br><br>
   <a href="https://github.com/javin7"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=javin7&show_icons=true&theme=onedark" alt="Spotify"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=javin7&show_icons=true&theme=dark" alt="Github"/>
   </a>
 </p>
 
