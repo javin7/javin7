@@ -11,7 +11,7 @@
   <b>Github Stats:</b>
   <br><br>
   <a href="https://github.com/javin7"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=javin7&show_icons=true&theme=radical" alt="Spotify"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=javin7&show_icons=true&theme=onedark" alt="Spotify"/>
   </a>
 </p>
 
