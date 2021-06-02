@@ -7,9 +7,12 @@
   💻 Discord: Javin#1305 
   </p>
   <hr>
-  <p align="center">
-  <br>
-  <img src="https://i.postimg.cc/brtYn7N0/0-Ns5-KOXx-Ni-b-Rvo6-T.gif">
+  <p align="center"> 
+  <br><br>
+  <b>Github stats</b>
+  <a href="https://github.com/javin7"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=javin7" alt="Spotify"/>
+  </a>
 </p>
 
 
@@ -23,8 +26,7 @@
 
 <hr>
 <p align="center"> 
-  <br><br>
-  <a href="https://github.com/javin7"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=javin7" alt="Spotify"/>
-  </a>
+  <p align="center">
+  <br>
+  <img src="https://i.postimg.cc/brtYn7N0/0-Ns5-KOXx-Ni-b-Rvo6-T.gif">
 </p>
