@@ -21,8 +21,8 @@
   </a>
 </p>
 
+<hr>
 <p align="center"> 
-  <b>Spotify🎶...</b>
   <br><br>
   <a href="https://github.com/javin7"/>
     <img src="https://github-readme-stats.vercel.app/api?username=javin7" alt="Spotify"/>
