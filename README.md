@@ -17,7 +17,7 @@
 
 
 <p align="center"> 
-  <b>Spotify🎶...</b>
+  <b>Spotify:headphones:...</b>
   <br><br>
   <a href="https://open.spotify.com/user/javinliu09"/>
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=javinliu09&count=1&width=500" alt="Spotify"/>
