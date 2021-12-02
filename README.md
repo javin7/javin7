@@ -23,4 +23,9 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=javinliu09&count=1&width=500" alt="Spotify"/>
   </a>
 </p>
-
+<hr>
+<p align="center"> 
+  <p align="center">
+  <br>
+  <img src="https://i.postimg.cc/brtYn7N0/0-Ns5-KOXx-Ni-b-Rvo6-T.gif">
+</p>
