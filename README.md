@@ -2,7 +2,7 @@
 <h1 align="center"><b>Javin</b></h1><br>
 <p align="center">
   Hello there 👋 <br>
-  🔭 I’m currently working on nothing<br>
+  🔭 I’m currently working on Website for Protein Club at A.Y. Jackson<br>
   🌱 I’m currently learning Java<br>
   💻 Discord: Javin#1305 
   </p>
