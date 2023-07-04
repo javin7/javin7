@@ -4,7 +4,7 @@
   Hello there 👋 <br>
   🔭 I’m currently working on Website for Protein Club at A.Y. Jackson<br>
   🌱 I’m currently learning Java<br>
-  💻 Discord: Javin#1305 
+  💻 Discord: artemiskii 
   </p>
   <hr>
   <p align="center"> 
