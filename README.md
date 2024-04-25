@@ -8,7 +8,7 @@
   </p>
   <hr>
   <p align="center"> 
-  <b>Github Stats:octocat::</b>
+  <b>Github Stats:</b>
   <br><br>
   <a href="https://github.com/javin7"/>
     <img src="https://github-readme-stats.vercel.app/api?username=javin7&show_icons=true&theme=dark" alt="Github"/>
