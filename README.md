@@ -26,6 +26,4 @@
 <hr>
 <p align="center"> 
   <p align="center">
-  <br>
-  <img src="https://i.postimg.cc/brtYn7N0/0-Ns5-KOXx-Ni-b-Rvo6-T.gif">
 </p>
