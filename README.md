@@ -2,7 +2,7 @@
 <h1 align="center"><b>Javin</b></h1><br>
 <p align="center">
   Hello there 👋 <br>
-  🔭 I’m currently working on nothing<br>
+  🔭 I’m currently working on a stock analysis<br>
   🌱 I’m currently learning Python<br>
   💻 Discord: artemiskii 
   </p>
